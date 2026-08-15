@@ -1,0 +1,15 @@
+Capacitors:
+Part #:     Pkg:    Value:      Num:
+C66501      0603    100nF       3
+C519406     0603    10nF        2
+C237213     0603    3.3µF       1
+C6119849    0603    10µF        1
+
+Resistors:
+Part #:     Pkg:    Value:  Tolerance:  Num:
+C2906982    0603    10kΩ    ±1%         1
+
+Pin Header:
+Part #:     Pkg:        Pins:   Num:
+C6332201    T.H.-2.54   01x08   0
+C6332200    T.H -2.54   01x07   1
