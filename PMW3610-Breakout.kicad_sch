@@ -1717,7 +1717,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "052df5ef-41c6-47aa-8b28-855fae4ce931")
-		(property "Reference" "C10"
+		(property "Reference" "C6"
 			(at 122.936 100.584 0)
 			(effects
 				(font
@@ -1780,7 +1780,7 @@
 		(instances
 			(project "PMW3610-Breakout"
 				(path "/1f1d3d80-f31d-4a26-89ea-3826c79f495e"
-					(reference "C10")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -2832,7 +2832,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ca1f2745-7344-42d0-864b-8c54f381156e")
-		(property "Reference" "C6"
+		(property "Reference" "C5"
 			(at 136.906 78.994 90)
 			(effects
 				(font
@@ -2895,7 +2895,7 @@
 		(instances
 			(project "PMW3610-Breakout"
 				(path "/1f1d3d80-f31d-4a26-89ea-3826c79f495e"
-					(reference "C6")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -2910,7 +2910,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ed565494-82f8-4d01-9786-e8eb5a9e67ae")
-		(property "Reference" "C9"
+		(property "Reference" "C7"
 			(at 133.096 100.584 0)
 			(effects
 				(font
@@ -2955,7 +2955,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C18164635"
+		(property "LCSC Part #" "C6119849"
 			(at 134.62 101.6 0)
 			(effects
 				(font
@@ -2973,7 +2973,7 @@
 		(instances
 			(project "PMW3610-Breakout"
 				(path "/1f1d3d80-f31d-4a26-89ea-3826c79f495e"
-					(reference "C9")
+					(reference "C7")
 					(unit 1)
 				)
 			)
